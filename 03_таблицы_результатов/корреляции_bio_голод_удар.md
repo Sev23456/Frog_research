@@ -1,0 +1,10 @@
+| Архитектура | Короткое имя | Режим | Корреляция, mean ± std | N запусков |
+| --- | --- | --- | --- | --- |
+| BioFrog compare (Frog_predator_neuro_compare) | BIO compare | adult | -0.461 ± 0.236 | 50 |
+| BioFrog compare (Frog_predator_neuro_compare) | BIO compare | developmental | -0.439 ± 0.225 | 50 |
+| BioFrog dual compare (Frog_predator_neuro_dual_compare) | BIO dual compare | adult | -0.639 ± 0.221 | 50 |
+| BioFrog dual compare (Frog_predator_neuro_dual_compare) | BIO dual compare | developmental | -0.661 ± 0.209 | 50 |
+| BioFrog fast compare (Frog_predator_neuro_fast_compare) | BIO fast compare | adult | -0.484 ± 0.273 | 50 |
+| BioFrog fast compare (Frog_predator_neuro_fast_compare) | BIO fast compare | developmental | -0.418 ± 0.231 | 50 |
+| BioFrog dual fast compare (Frog_predator_neuro_dual_fast_compare) | BIO dual fast compare | adult | -0.675 ± 0.194 | 50 |
+| BioFrog dual fast compare (Frog_predator_neuro_dual_fast_compare) | BIO dual fast compare | developmental | -0.609 ± 0.214 | 50 |

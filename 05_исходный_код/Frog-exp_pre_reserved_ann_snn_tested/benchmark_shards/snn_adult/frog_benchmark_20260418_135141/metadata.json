@@ -1,0 +1,31 @@
+{
+  "steps": 100000,
+  "spawn_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "repeats": 1,
+  "modes": [
+    "adult"
+  ],
+  "architectures": [
+    "SNN"
+  ],
+  "sample_interval": 1000,
+  "competence_catches": 10,
+  "workers": 4,
+  "created_at": "2026-04-18T13:51:41.684684",
+  "notes": [
+    "spawn_seed controls initial fly spawn stream; runtime randomness varies per repeat",
+    "online learning remains enabled for all architectures",
+    "developmental mode maps to training_mode=True"
+  ]
+}

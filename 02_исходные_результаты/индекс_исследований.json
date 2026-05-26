@@ -1,0 +1,44 @@
+[
+  {
+    "study_key": "ann_snn_baseline",
+    "study_label_ru": "Базовое сравнение ANN/SNN",
+    "study_role": "main_baseline",
+    "family": "baseline",
+    "source_dir": "D:\\ИИ-агенты\\Frog--88506_final\\benchmark_results\\studies_full_subprocess\\frog_study_20260418_165410\\partial_merged_ann_snn",
+    "architectures": "ANN, ANN_FROZEN, SNN, SNN_FROZEN",
+    "modes": "adult, developmental",
+    "steps": "100000",
+    "spawn_seeds": 10,
+    "repeats": "5",
+    "sample_interval": "500",
+    "competence_catches": "10"
+  },
+  {
+    "study_key": "bio_compare_family",
+    "study_label_ru": "Семейство compare-биолягушек",
+    "study_role": "bio_family",
+    "family": "bio",
+    "source_dir": "D:\\ИИ-агенты\\Frog--88506_final\\benchmark_results\\bio_compare_only_foreground_20260420_run1\\frog_study_20260420_193346\\merged",
+    "architectures": "BIO_COMPARE, BIO_DUAL_COMPARE, BIO_DUAL_FAST_COMPARE, BIO_FAST_COMPARE",
+    "modes": "adult, developmental",
+    "steps": "100000",
+    "spawn_seeds": 10,
+    "repeats": "5",
+    "sample_interval": "500",
+    "competence_catches": "10"
+  },
+  {
+    "study_key": "ann_homeostasis_chronology",
+    "study_label_ru": "Хронология homeostatic ANN: V2 -> V3 -> V3.1",
+    "study_role": "chronology",
+    "family": "ann_homeostasis",
+    "source_dir": "D:\\ИИ-агенты\\Frog--88506_final\\benchmark_results\\ann_soft_sated_v2_v3_v31_full_20260421_run1\\frog_study_20260421_174042\\merged",
+    "architectures": "ANN_FROZEN_SOFT_SATED_V2, ANN_FROZEN_SOFT_SATED_V3, ANN_FROZEN_SOFT_SATED_V3_1, ANN_SOFT_SATED_V2, ANN_SOFT_SATED_V3, ANN_SOFT_SATED_V3_1",
+    "modes": "adult, developmental",
+    "steps": "100000",
+    "spawn_seeds": 10,
+    "repeats": "5",
+    "sample_interval": "500",
+    "competence_catches": "10"
+  }
+]

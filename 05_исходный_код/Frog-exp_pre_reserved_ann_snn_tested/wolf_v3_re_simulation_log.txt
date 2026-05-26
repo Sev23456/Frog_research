@@ -1,0 +1,12 @@
+=== Wolf_for_laba_v3_realistic_neuro Biological Simulation ===
+[0000.0s] Training wolf A1 spawned at (2,5) | juvenile=1 energy=0.71.
+[0000.0s] Training wolf A2 spawned at (3,5) | juvenile=1 energy=0.68.
+[0000.0s] A1 food-bark: maternal feeding near (2,2) | heard by A2.
+[0000.0s] A1 received nurturing food at (2,2) | energy=0.85 imprint=0.60.
+[0000.0s] A2 food-bark: maternal feeding near (3,2) | heard by A1.
+[0000.0s] A2 received nurturing food at (3,2) | energy=0.81 imprint=0.54.
+Training pair received early nurturing feeds so food reward can be learned before full foraging.
+[0000.0s] Training food cache placed at (2,4) for A1.
+[0000.0s] Training food cache placed at (4,5) for A2.
+Training pair spawned. Juveniles now develop with a littermate present.
+Wolf_for_laba_v3_realistic_neuro booted. Realistic runtime loaded around the bio-agents.
